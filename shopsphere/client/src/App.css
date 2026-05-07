@@ -1,0 +1,11 @@
+/* App.css — Layout & Page Transitions */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Page transition wrapper */
+.page-transition {
+  width: 100%;
+}
